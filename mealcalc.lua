@@ -1,3 +1,4 @@
+-- hi skids
 if not WYNF_OBFUSCATED then
     WYNF_JIT = function(fn)
         return fn
